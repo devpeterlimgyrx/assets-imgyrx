@@ -1,0 +1,2 @@
+# assets-imgyrx
+static assets
